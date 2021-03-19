@@ -4,17 +4,20 @@
   <img align="left" alt="Vatsal Patel | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/vatsalpatel272120/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vatsal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-Hi, I'm [Vatsal Patel](https://github.com/Vatsal272120), a passionate self-taught Full Stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Vatsal Patel](https://www.linkedin.com/in/vatsalpatel272120/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+What I continue to learn and love about software engineering is that there is no end. There are always ways to continue to learn new techniques and languages while evolving those skills to become a better web developer.
+
+As a lifelong athlete, I have gained strong skills in teamwork, collaboration, and being coachable to increase effectiveness. Experienced member in React-JS, React-Native, NodeJS JavaScript, HTML, CSS, Mongo-DB, Pair-Programming, Object-Oriented Programing
+
+I like to resolve design problems, create a smart user interface, and imagine useful interaction, developing rich web experiences and web applications. When not working or futzing around with code, I like to passionately learn and preach facts about beer.
 
   <img align="right" alt="GIF" src="https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1lcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="500" height="320" />
   
