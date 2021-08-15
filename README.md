@@ -15,14 +15,14 @@ Hi, I'm Vatsal, a passionate self-taught Full Stack web developer and a freelanc
 
 What I continue to learn and love about software engineering is that there is no end. There are always ways to continue to learn new techniques and languages while evolving those skills to become a better web developer.
 
-As a lifelong athlete, I have gained strong skills in teamwork, collaboration, and being coachable to increase effectiveness. Experienced member in React-JS, React-Native, NodeJS JavaScript, HTML, CSS, Mongo-DB, Pair-Programming, Object-Oriented Programing
+As a lifelong athlete, I have gained strong skills in teamwork, collaboration, and being coachable to increase effectiveness. Experienced member in React-JS, React-Native, NodeJS JavaScript, HTML, CSS, Mongo-DB,  Object-Oriented Programing
 
 I like to resolve design problems, create a smart user interface, and imagine useful interaction, developing rich web experiences and web applications. When not working or futzing around with code, I like to passionately learn and preach facts about beer.
 
   <img align="right" alt="GIF" src="https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1lcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@vatsalpatel272120](mailto:vatsalpatel1073@gmail.com);
+- 📫 How to reach me: [Email](mailto:vatsalpatel1073@gmail.com);
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 
 **Languages and Tools:**
