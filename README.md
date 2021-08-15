@@ -22,7 +22,7 @@ I like to resolve design problems, create a smart user interface, and imagine us
   <img align="right" alt="GIF" src="https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1lcnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@vatsalpatel272120](https://www.linkedin.com/in/vatsalpatel272120/);
+- 📫 How to reach me: [@vatsalpatel272120](mailto:vatsalpatel1073@gmail.com);
 <!-- - 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view) -->
 
 **Languages and Tools:**
